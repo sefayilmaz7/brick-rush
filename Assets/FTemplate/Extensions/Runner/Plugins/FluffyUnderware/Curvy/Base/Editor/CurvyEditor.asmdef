@@ -1,0 +1,19 @@
+{
+    "name": "CurvyEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db51f7102dd4f32479b7c8d3760b6df0",
+        "GUID:e813f47513242c24499427ac0c9ea06f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

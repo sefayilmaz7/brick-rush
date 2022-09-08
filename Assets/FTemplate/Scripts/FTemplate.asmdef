@@ -1,0 +1,28 @@
+{
+    "name": "FTemplate",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "MoreMountains.NiceVibrations",
+        "MoreMountains.NiceVibrations.Haptics",
+        "MoreMountains.NiceVibrations.Rumble",
+        "Cinemachine",
+        "EasyButtons"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "1.0.0",
+            "define": "USING_URP"
+        }
+    ],
+    "noEngineReferences": false
+}
